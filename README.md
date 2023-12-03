@@ -1,6 +1,7 @@
 # Starbucks Analysis Nanodegree Capstone Project
 - This project is a part of Udacity Data Science Nanodegree.
 - My Medium blogspot: [Data Scientist Nanodegree Capstone — Starbucks Project](https://medium.com/@nguynminhhng/data-scientist-nanodegree-capstone-starbucks-project-f38e00ef022e)
+![Starbucks Analysis Nanodegree Capstone Project](thuong-hieu-starbuck.jpg)
 
 ## Table of content
 1. [Project Overview](https://github.com/nminhhung/Starbucks-Analysis-Nanodegree/blob/main/README.md#1-project-overview)
