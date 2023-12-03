@@ -42,9 +42,9 @@ The way I approach and handle the problem is that I divide it into 3 main parts:
   - portfolio.json: containing offer ids and meta data about each offer.
   - profile.json: demographic data for each customer.
   - transcript.json: records for transactions, offers received, offers viewed, and offers completed. Because the file size is too large (40.24 MB), I stored the file on Kaggle. [transcript.json](https://www.kaggle.com/datasets/scvgyahoo/starbucks-udacity-project-dataset?select=transcript.json).
-- 1_Preprocessing.ipynb: performs data preprocessing steps and combines them into a final dataset.
-- 2_Data_Exploration.ipynb: perform data EDA and data visualization steps.
-- 3_Data_Modeling.ipynb: perform the steps to build the model and evaluate the model and results.
+-- 1_Preprocessing.ipynb: performs data preprocessing steps and combines them into a final dataset.
+-- 2_Data_Exploration.ipynb: perform data EDA and data visualization steps.
+-- 3_Data_Modeling.ipynb: perform the steps to build the model and evaluate the model and results.
 
 Here is the schema and explanation of each variable in the files:
 
