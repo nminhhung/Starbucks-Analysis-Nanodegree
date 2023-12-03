@@ -4,12 +4,12 @@
 ![Starbucks Analysis Nanodegree Capstone Project](thuong-hieu-starbuck.jpg)
 
 ## Table of content
-1. [Project Overview](https://github.com/nminhhung/Starbucks-Analysis-Nanodegree/blob/main/README.md#1-project-overview)
-2. [Project Components](https://github.com/nminhhung/Starbucks-Analysis-Nanodegree/blob/main/README.md#2-project-components)
-3. [Installation](https://github.com/nminhhung/Starbucks-Analysis-Nanodegree/blob/main/README.md#3-installation)
-4. [File Descriptions](https://github.com/nminhhung/Starbucks-Analysis-Nanodegree/blob/main/README.md#4-file-descriptions)
-5. [Instructions](https://github.com/nminhhung/Starbucks-Analysis-Nanodegree/blob/main/README.md#5-instructions)
-6. [Credits and Acknowledgements](https://github.com/nminhhung/Starbucks-Analysis-Nanodegree/blob/main/README.md#6-credits-and-acknowledgements)
+1. [Project Overview](https://github.com/nminhhung/Starbucks-Analysis-Nanodegree/tree/main#1-project-overview)
+2. [Project Components](https://github.com/nminhhung/Starbucks-Analysis-Nanodegree/tree/main#2-project-components)
+3. [Installation](https://github.com/nminhhung/Starbucks-Analysis-Nanodegree/tree/main#3-installation)
+4. [File Descriptions](https://github.com/nminhhung/Starbucks-Analysis-Nanodegree/tree/main#4-file-descriptions)
+5. [Instructions](https://github.com/nminhhung/Starbucks-Analysis-Nanodegree/tree/main#5-instructions)
+6. [Credits and Acknowledgements](https://github.com/nminhhung/Starbucks-Analysis-Nanodegree/tree/main#6-credits-and-acknowledgements)
 
 ## 1. Project Overview
 Starbucks data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some users might not receive any offer during certain weeks. Not all users receive the same offer, and that is the challenge to solve with this data set.
